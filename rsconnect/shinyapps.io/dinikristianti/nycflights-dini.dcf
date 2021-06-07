@@ -1,0 +1,12 @@
+name: nycflights-dini
+title: nycflights-dini
+username:
+account: dinikristianti
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3800577
+bundleId: 4353280
+url: https://dinikristianti.shinyapps.io/nycflights-dini/
+when: 1615905626.83037
+asMultiple: FALSE
+asStatic: FALSE
